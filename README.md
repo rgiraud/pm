@@ -1,5 +1,7 @@
 ## PatchMatch algorithm
 
+### Overview 
+
 MATLAB/C-Mex re-implementation of paper:    [Web page](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 ```
 @inproceedings{barnes2009patchmatch,
@@ -12,8 +14,6 @@ MATLAB/C-Mex re-implementation of paper:    [Web page](https://gfx.cs.princeton.
   year={2009}
 }
 ```
-
-### Overview 
 
 - Dense patch matching from an image A -> B and reconstruction of the image A with the correspondences in B
 
