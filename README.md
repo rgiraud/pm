@@ -29,4 +29,4 @@ run main.m
 
 ### Data
 
-133 Pair of HD 1080p images are extracted from cinema movies in the *VidPairs data-set* available [here](http://www.cs.haifa.ac.il/~skorman/CSH/index.html) 
+133 Pair of HD 1080p images are extracted from cinema movies in the *VidPairs dataset* available [here](http://www.cs.haifa.ac.il/~skorman/CSH/index.html) 
