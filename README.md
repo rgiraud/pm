@@ -15,7 +15,7 @@ MATLAB/C-Mex re-implementation of paper:    [Web page](https://gfx.cs.princeton.
 
 ### Overview 
 
-- Dense patch-based matching from an image A -> B and reconstruction of the image A with the correspondences in B
+- Dense patch matching from an image A -> B and reconstruction of the image A with the correspondences in B
 
 ![image](./Figures/pm_method.png)
 
