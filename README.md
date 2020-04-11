@@ -15,6 +15,8 @@ MATLAB/C-Mex re-implementation of paper:    [Web page](https://gfx.cs.princeton.
 
 ### Overview 
 
+- Dense patch-based matching from an image A -> B and reconstruction of the image A with the correspondences in B
+
 ![image](./Figures/pm_method.png)
 
 
@@ -27,4 +29,4 @@ run main.m
 
 ### Data
 
-Pair of images are extracted from cinema movies in the *VidPairs data-set* available [here](http://www.cs.haifa.ac.il/~skorman/CSH/index.html) 
+133 Pair of HD 1080p images are extracted from cinema movies in the *VidPairs data-set* available [here](http://www.cs.haifa.ac.il/~skorman/CSH/index.html) 
