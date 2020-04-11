@@ -11,8 +11,8 @@ mex -O -g CFLAGS="\$CFLAGS -Wall -std=c99" Mex/rebuilt.c  -outdir Mex/
 pw = 2;  %patch_size
 iter = 5;  %patchmatch iteration number
 
-a = double(imread('img_1.jpg'));
-b = double(imread('img_2.jpg'));
+a = double(imread('./data/img_1.jpg'));
+b = double(imread('./data/img_2.jpg'));
 
 %a to b
 tic;
